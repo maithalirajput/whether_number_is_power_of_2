@@ -1,0 +1,1 @@
+# whether_number_is_power_of_2
